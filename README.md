@@ -13,6 +13,7 @@ Welcome to my data portfolio! This is where I provide an overview of my projects
 <br><br>
 #  Guided Projects 
 
-| Project Link | Tools Used | Project Description | Libraries Used
+| Project Link | Tools Used | Project Description | Libraries/RDBMS Used
 |---|---|---|---|
 | :croissant: [Bakery Analysis](https://github.com/MaryamRafiquee/Bakery-Analysis) | Python | This project involves the analysis of transactional data from a bakery to gain insights into customer purchasing behavior.The primary objective of this project was to explore the dataset, identify trends and patterns in customer behavior, and provide actionable insights that could help the bakery optimize its operations. | Pandas Matplotlib
+| 📺 [Netflix Analysis](https://github.com/MaryamRafiquee/Netflix_Analysis) | SQL | This project aims to analyze Netflix's content catalog using SQL. The dataset contains information about TV shows and movies. Through various SQL queries, we explore trends and insights about the content available on Netflix.While this was a guided project, I made modifications to several queries to enhance their accuracy where I deemed necessary. | PostgreSQL
